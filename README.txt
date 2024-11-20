@@ -14,7 +14,7 @@ Features:
 - allow users to report real-time or temporary obstacles along a route (e.g., construction sites, broken elevators, snow-covered ramps, etc.).
 	-push notifications to inform users when new alerts come in for locations on their route.
 -accessibility for color blindness
--optional (narrator for dyslexic ppl)
+-(optional) narrator for dyslexic ppl
 -Implement an SOS button that allows users to quickly notify emergency contacts or local authorities in case they need assistance.
 
 -Incentivize users to leave reviews, confirm accessibility information, and report obstacles by implementing a points system with badges or rewards.
