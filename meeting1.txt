@@ -1,0 +1,21 @@
+
+Figma - think of user experience
+
+- Path-finding, places
+- reviews, places, alerts
+- SOS alert
+
+What to ask of the user? 
+
+OOP, modular
+
+Baze de date - MongoDB(?)
+
+React - library for JS, for reusing design elements
+React Native - web dev to mobile dev
+
+Flutter - cu o singura baza de cod - Android, IoS, nativ for windows
+
+Next.js - allows frontend - backend comm
+
+For authentification - Firebase

@@ -1,0 +1,56 @@
+1. Opening the App: Welcome Screen
+-Logo and tagline
+-Carousel explaining the core functionalities of the app, accompanied by suggestive screenshots or visuals
+	- The cause: accessibility
+	- Tailored path-finding
+	- Places 
+	- Public transport
+	- Safety/real-time help (alerts, SOS)
+2. Carousel leads to sign in screen
+	- Create an account
+	- or Sign in w Google
+3. Set up your account / Customize your experience (each slide has a remind me later/skip option)
+	- will have a progress bar 
+	3.2. Color blindness and dyslexia
+	3.1. Mobility (e.g., wheelchair accessible routes, avoid stairs).
+	3.2. Vision (e.g., audio descriptions, high-contrast mode).
+	3.4. Cognitive (e.g., simplified narration).
+	3.5 Hearing (e.g., haptic feedback, visual alerts).
+	3.6. Select preferred modes of transport (e.g., public transport, walking, wheelchair).
+
+- use of sliders for easy selection.
+
+"You're all set up!"
+
+4. Emergency Setup
+	4.1 Alert authorities
+		- add blood type
+		- allergies
+		- medications they're taking
+		- other relevant information
+	4.2 Alert emergency contact (ex. spouse, family, friend)
+
+- In both cases they're alerted by being sent either a custom or default messaged accompanied by live location
+ 	
+5. Main screen/appearance 
+- Small tutorial by highlighting buttons to show the core functionalities (w option to skip)
+
+The main screen will look like this:
+- Top of the screen will have:
+	- Top left: 3 lines that open the show more screen
+	- Center: Search bar that has a microphone icon inside, on the right
+	- Top right: the account image, circle shaped, that will open features/options regarding the account
+	- Under the search bar: buttons u can scroll through that will show you the nearest bench/park/grocery shop/café/restaurant/hospital, etc.
+
+The greatest proportion of the screen will be taken up by the map, that will display
+	- where the user is located
+	- nearest benches
+	- based on the zoom level, different places 	
+
+The bottom of the screen will have the main functionalities bar with the following buttons:
+- Home Button / Map button 
+- Report button
+- Contribute button
+
+Over this bottom bar, there is an emergency  
+	
