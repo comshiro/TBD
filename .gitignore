@@ -35,4 +35,11 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
+# Optional additions
 app-example
+# Environment variables
+.env
+# VSCode
+.vscode/
+# IDE - IntelliJ
+.idea/
