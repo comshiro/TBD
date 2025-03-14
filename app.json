@@ -1,17 +1,17 @@
 {
   "expo": {
-    "name": "my-app",
-    "slug": "my-app",
+    "name": "AccessNav",
+    "slug": "access-nav",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "my-app",
+    "scheme": "access-nav",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
       "infoPlist": {
-        "NSLocationWhenInUseUsageDescription": "This app needs access to your location to show it on the map."
+        "NSLocationWhenInUseUsageDescription": "AccessNav needs your location to show accessible routes near you."
       }
     },
     "android": {
@@ -40,7 +40,7 @@
       [
         "expo-location",
         {
-          "locationAlwaysAndWhenInUsePermission": "Allow AccessNav to use your location to show accessible routes."
+          "locationAlwaysAndWhenInUsePermission": "AccessNav needs your location to show accessible routes even when the app is in the background."
         }
       ]
     ],
